@@ -24,7 +24,7 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser
 https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_optional
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://github.com/notracking/hosts-blocklists
-
+https://github.com/blocklistproject/Lists
 
 # sources using 127.0.0.1
 
@@ -33,3 +33,10 @@ https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts
 list.iblocklist.com/?list=qlprgwgdkojunfdlzsiv&fileformat=hosts&archiveformat=gz
 https://threatfox.abuse.ch/downloads/hostfile/
+
+adblock plus/ublock origin based host file
+
+https://github.com/notracking/hosts-blocklists/raw/master/adblock/adblock.txt
+https://abp.oisd.nl/
+https://abp.oisd.nl/nsfwbig/
+https://github.com/blocklistproject/Lists
